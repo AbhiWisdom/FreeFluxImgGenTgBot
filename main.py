@@ -13,7 +13,7 @@ BOT_TOKEN = ''
 API_URL = "https://api.abhibhai.com/api/v4/dreambooth"
 KEY = ""  # Get free api from Tg Bot - @abhibotsbot 
 CHANNEL_CHAT_ID = '@abhibots'
-GROUP_CHAT_ID = -4108041769  # Group ID for membership check
+GROUP_CHAT_ID = -4.... # Group ID for membership check
 # Initialize the bot
 bot = telebot.TeleBot(BOT_TOKEN)
 
